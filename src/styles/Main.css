@@ -77,3 +77,18 @@ a{
     background-color: rgb(174, 170, 170);
     cursor: pointer;
 }
+
+
+/*MOBILE DEVICES */
+
+@media screen and (max-width: 768px){
+    .main__section{
+        height: 892px;
+        width: 100%;
+    }
+    .main__section_content{
+        width: 90vw;
+    }
+    
+    
+}

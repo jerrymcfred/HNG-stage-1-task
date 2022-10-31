@@ -2,7 +2,11 @@
 
 .App {
   text-align: center;
-  width: 100vw;
   height: 1158px;
 }
 
+@media all and (max-width){
+  .app{
+    width: 375px;
+  }
+}
